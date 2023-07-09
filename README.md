@@ -1,2 +1,2 @@
-# repo2
-my first repo demo
+#awesome
+its my first repo
